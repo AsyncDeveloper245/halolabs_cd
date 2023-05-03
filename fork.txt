@@ -1,1 +1,1 @@
-I made a fork to this repo and added the notification feature, kindly merge my pr
+I made a fork to this repo and added the notification feature, kindly merge my PR
